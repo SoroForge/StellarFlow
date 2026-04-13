@@ -1,0 +1,6 @@
+
+# Cargo.toml placeholder for StellarFlow contract project
+
+[profile.release-with-logs]
+inherits = "release"
+debug-assertions = true
